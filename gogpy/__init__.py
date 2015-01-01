@@ -1,0 +1,1 @@
+from .gogpy import gog
